@@ -1,2 +1,1 @@
-# Cujvy
-Hu
+# PAIR-WEB-SC
